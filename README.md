@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! I'm Karthikeya Goud Nagelli, a Software Developer from India</h2>
+<h2 align="left">Hi 👋! I'm Karthikeya Goud Nagelli, a Software Developer & Python Enthusiast from India</h2>
 
 ### 💫 About Me
-👨‍💻 **Software Developer & Python Enthusiast**<br>
-Software developer with experience in **Python, Java, C++, and JavaScript**. Builds applications and tools, enjoys solving problems, and likes practicing algorithms and challenges on platforms like LeetCode. *(Currently a student.)*
+👨‍💻 **Software Developer and Computer Science Student @GCTC**<br>
+I enjoy building applications and tools using **Python, Java, C++, and JavaScript**. I love solving algorithmic challenges on platforms like LeetCode and exploring new technologies to improve my skills.
 
 ---
 
